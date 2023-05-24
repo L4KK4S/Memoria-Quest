@@ -14,10 +14,10 @@
 Game developed between January and May 2023.
 
 Conceived by *EFREI L1 S2 TI250 Group A3* including :
-- Item
-- Deuxième item
-   - Sous-liste : **_3_** espaces en début de ligne
-   - Deuxième item de la sous-liste
-- Dernier item
+- Abdel-Waheb Sakkal [L4KK4S](https://github.com/L4KK4S)
+- Noé Lacaille [noelacaille](https://github.com/noelacaille)
+- Adrian Monteiro [Adri-dou](https://github.com/Adri-dou)
+- Adam Chaba [AdamChb](https://github.com/AdamChb)
+- Farès Dargouth [FaresDarghouth](https://github.com/FaresDarghouth)
 
 ---
